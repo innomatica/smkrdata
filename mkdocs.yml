@@ -1,0 +1,4 @@
+site_name: Safe Medication (KR)
+theme: readthedocs
+markdown_extensions:
+  - attr_list
